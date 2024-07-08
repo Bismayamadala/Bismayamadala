@@ -1,4 +1,3 @@
-
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&align=center&color=ffffff&random=false&width=535&lines=%E2%9C%A8+Hey 👋,I'm+Bismaya.You are Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -10,6 +9,8 @@
 - 🔭 I’m currently a Fresher
 
 - 🌱 I’m currently learning **BackEnd Development**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://bismayamadala.github.io/Portfolio/)
 
 - 📫 How to reach me **bismayamadala103@gmail.com**
 
