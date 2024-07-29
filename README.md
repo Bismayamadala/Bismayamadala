@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bismayamadala103@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/10-F-7eqdBtGMvXOecljffFdt69jFzqdY/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/15dth52nGz0Pjj_XZPdsgChlK7vFOiUep/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
